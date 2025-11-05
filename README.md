@@ -1,2 +1,2 @@
-# MKTemplate
-Template for new teaching notes
+# Industry Writing
+Created from Template for new teaching notes
