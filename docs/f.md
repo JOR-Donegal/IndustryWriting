@@ -3,7 +3,8 @@ A spreadsheet as a wire list
 
 Any complex project will have a wire list, uniquely numbering every cable, with sufficient meta data that the cable type and function can be clearly identified. In very large projects, a wire list is derived from the underlying project database. In smaller projects, we just create one in Excel. In this course, we focus on ISO11801 and EN50600, however in a real project, you may be dealing with heterogeneous cabling.
 
-Separate the worksheets based on FD/BD/CD.
+If there are multiple buildings and floors, include a summary sheet.
+Separate the worksheets based on FD/BD/CD. On a real project, these sheets may go to completely different contractors.
 
 CAT6 cable count should be shown here per room with a distance estimate per cable to allow for budget estimation.
 
