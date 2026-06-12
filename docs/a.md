@@ -32,4 +32,4 @@ There are many other things students have added to this type of summary in the p
 - Lifecycle, maintenance, warranties, and support? 
 - System life expectancy, upgrades.
 
-Take a look at this [video](https://media.heanet.ie/secure/file/15b38f9d26be4f25b6fa2be6b4e82e52) of a live session from 2022.
+Take a look at this [video](https://media.heanet.ie/page/15b38f9d26be4f25b6fa2be6b4e82e52) of a live session from 2022.
