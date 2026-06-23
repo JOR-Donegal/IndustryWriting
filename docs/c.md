@@ -1,4 +1,5 @@
 # Logical Diagrams
+
 _A logical diagram of a network will show routers, subnets, VLAN, gateways etc. and will facilitate debugging using layer 3. It should closely integrate with the VLAN table_.
 
 A logical network diagram provides sufficient information for someone to understand the network at layer 2 and layer 3, such that diagnostics are possible. Typically, switches will not be shown, routers will. Broadcast domains will be shown, these are Ethernets but in a modern network, will normally be VLANs. Each VLAN should show relevant information such as the VLAN ID, name, and any IP address range associated. Routers and gateways should be indicated. Infrastructure servers such as DNS, DHCP, and AAA will normally be indicated. Any zoning should be indicated such as the presence of firewalls.

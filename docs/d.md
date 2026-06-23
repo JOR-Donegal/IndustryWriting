@@ -39,6 +39,7 @@ I would never show individual PCs, except as a total count.
 If there is a hierarchy, this is where I would describe it.
 
 ## Server Diagrams
+
 A physical server diagram will show server equipment, interfaces, and interconnections. A logical diagram will show which VLANs it connects to, IP addresses, gateways, etc.
 
 It can be very useful to provide a block diagram of each server with the major components detailed. Alternatively, a VISIO template can be a useful base.
@@ -66,7 +67,8 @@ On a logical diagram, show:
 - The interfaces and VLANs to which it connects to and their characteristics.
 - You may combine diagrams and annotations always help.
 
-## Cabinet Physical Diagrams
+## Rack or Cabinet Physical Diagrams
+
 A physical diagram of the cabinet will show server, ancillary equipment, physical interfaces, and interconnections.
 
 Correct cabinet layout will show some thought for weight and access requirements. You could show the U height each device is installed at. Add some notes to clarify details (for example, associating PDUs with UPS, etc).
