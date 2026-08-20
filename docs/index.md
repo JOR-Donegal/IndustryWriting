@@ -10,7 +10,9 @@ Sometimes students use commercial templates from real projects, this is generall
 
 Wording should be that appropriate to that of a professional contracting to a major customer.
 
-I give no extra marks for good presentation and grammar; it is expected at this level. However, I will deduct marks for poor presentation.
+I give no extra marks for good presentation and grammar; it is expected at this level. However, I will deduct marks for poor presentation. 
+
+Just about every document will have an introduction or summary and will have a conclusion so I know I am at the end of the document!
 
 Good practice is to have a minimal number of fonts and text colors in use per page.
 

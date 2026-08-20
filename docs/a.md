@@ -1,4 +1,5 @@
 # Writing a Project Summary
+
 This is a brief description of what you plan to do, comprehensible to non-technical people. This is primarily intended for the business owner
 
 For me in this context, “brief” means do not exceed two pages.
